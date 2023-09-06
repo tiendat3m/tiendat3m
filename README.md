@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiendat3m&label=Profile%20views&color=0e75b6&style=flat" alt="tiendat3m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiendat3m" alt="tiendat3m" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hiimtd3" target="blank"><img src="https://img.shields.io/twitter/follow/hiimtd3?logo=twitter&style=for-the-badge" alt="hiimtd3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
